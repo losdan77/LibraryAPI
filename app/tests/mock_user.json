@@ -1,0 +1,18 @@
+[
+    {
+        "email": "random@example.com",
+        "hashed_password": "$2b$12$4g.EkJv2P1YnbSiifjb5n.25IdSAZKLR2RbtLzcfRgzUd/vkn1mYm",
+        "name": "random",
+        "role": "random",
+        "book_count": 0,
+        "created_at": "2025-01-01"
+    },
+    {
+        "email": "admin@example.com",
+        "hashed_password": "$2b$12$4g.EkJv2P1YnbSiifjb5n.25IdSAZKLR2RbtLzcfRgzUd/vkn1mYm",
+        "name": "admin",
+        "role": "admin",
+        "book_count": 0,
+        "created_at": "2025-01-01"
+    }
+]

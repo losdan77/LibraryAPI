@@ -1,0 +1,9 @@
+[
+    {
+        "name": "test_book",
+        "description": "test_descript",
+        "date_pub": "2000-01-01",
+        "count_avaliable_copies": 2,
+        "genre": "test_genre"
+    }
+]
